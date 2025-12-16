@@ -3,4 +3,5 @@ ApeClip is an AI-powered tool for generating faceless short-form video content. 
 The project focuses on automating content generation workflows, enabling high-volume output without manual editing or on-camera recording.
 
 ApeClip is being developed in the open alongside creators and developers interested in content automation, distribution systems, and AI-driven media pipelines. Join the Discord to discuss ideas, share feedback, and contribute to the project.
+
 👋 [@apeclip](https://www.apeclip.com)
