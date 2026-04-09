@@ -1,6 +1,11 @@
-ApeClip is an AI-powered tool for generating faceless short-form video content. It programmatically creates ready-to-post clips designed for platforms like TikTok, Instagram Reels, and YouTube Shorts.
-The project focuses on automating content generation workflows, enabling high-volume output without manual editing or on-camera recording.
+**ApeClip** is an AI content engine that generates faceless short-form videos at scale.
 
-ApeClip is being developed in the open alongside creators and developers interested in content automation, distribution systems, and AI-driven media pipelines. Join the Discord to discuss ideas, share feedback, and contribute to the project.
+Built for platforms like TikTok, Instagram Reels, and YouTube Shorts, ApeClip focuses on high-volume, high-quality output without manual editing.
+
+The system continuously learns from performance, evolving what it creates based on what actually works turning content into a compounding feedback loop, not a one-off process.
+
+ApeClip is being built in the open with creators and developers exploring content automation, distribution systems, and AI-driven media pipelines.
+
+Join the Discord to shape the system, share ideas, and contribute.
 
 👋 [@apeclip](https://www.apeclip.com)
